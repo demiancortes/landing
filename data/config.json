@@ -1,0 +1,106 @@
+{
+	"business": {
+		"name": "Persianas en Mazatl\u00e1n | Vizual Persianas",
+		"phone": "526691632351"
+	},
+	"location": {
+		"address": "Plaza Santa Rita L7, Hacienda del Seminario",
+		"lat": 23.2801942,
+		"lng": -106.4215967,
+		"mapUrl": "https://maps.google.com/?q=23.2794361,-106.3786555"
+	},
+	"hours": [
+		{
+			"label": "Lunes a Viernes",
+			"time": "08:00 am \u2013 11:30 pm"
+		},
+		{
+			"label": "S\u00e1bado",
+			"time": "08:00 am \u2013 11:30 pm"
+		},
+		{
+			"label": "Domingo",
+			"time": "08:00 am \u2013 11:30 pm"
+		}
+	],
+	"theme": {
+		"accentColor": "#25d366",
+		"accentColorHover": "#1fbf5a",
+		"footerBgColor": "#1e7f4f"
+	},
+	"hero": {
+		"title": "Renueva tu hogar",
+		"subtitle": "Persianas Vizual Mazatl\u00e1n tu mejor opci\u00f3n",
+		"image": "images/uploads/hero/img_69958058c2ff1.png"
+	},
+	"cta": {
+		"title": "\u00bfQu\u00e9 esperas para renovar tu hogar?",
+		"buttonText": "Cont\u00e1ctanos",
+		"modalButtonText": "Solicitar cotizaci\u00f3n"
+	},
+	"benefits": {
+		"title": "\u00bfPor qu\u00e9 elegirnos?",
+		"items": [
+			"Instalaci\u00f3n r\u00e1pida 3 a 6 d\u00edas h\u00e1biles",
+			"Trabajos 100% garantizados",
+			"Cotizaci\u00f3n sin costo",
+			"Atenci\u00f3n personalizada por WhatsApp"
+		]
+	},
+	"seo": {
+		"metaDescription": "Persianas en Mazatl\u00e1n a la medida. Reduce el calor, controla la luz y mejora tu hogar. Cotiza por WhatsApp.",
+		"city": "Mazatl\u00e1n"
+	},
+	"social": {
+		"facebook": "https://facebook.com/persianasvizualmazatlan",
+		"instagram": "https://instagram.com/persianasvizualmazatlan",
+		"whatsapp": "https://wa.me/526691632351"
+	},
+	"products": [
+		{
+			"id": "prod-002",
+			"name": "Pomelo NN84 - Chocolate",
+			"description": "Modelo intermedio",
+			"extra": "Instalaci\u00f3n de 3 a 6 d\u00edas h\u00e1biles",
+			"price": "",
+			"image": "images/uploads/products/prod_698e80a1d0555.png",
+			"featured": false
+		},
+		{
+			"id": "prod-003",
+			"name": "Furze 007 - Negra",
+			"description": "Modelo calidad alta",
+			"extra": "Instalaci\u00f3n de 3 a 6 d\u00edas h\u00e1biles",
+			"price": "",
+			"image": "images/uploads/products/img_698f67f9b2c40.jpg",
+			"featured": true
+		},
+		{
+			"id": "prod-004",
+			"name": "Furze 006 - Gris",
+			"description": "Modelo calidad alta",
+			"extra": "M\u00e1s vendido",
+			"price": "",
+			"image": "images/uploads/products/img_698f681260759.jpg",
+			"featured": true
+		},
+		{
+			"id": "prod-006",
+			"name": "Papel tapiz",
+			"description": "Variedad de modelos y texturas",
+			"extra": "Ideal para todo tu hogar",
+			"price": "",
+			"image": "images/uploads/products/img_698f87852d622.jpg",
+			"featured": true
+		},
+		{
+			"id": "prod-007",
+			"name": "Cortinas",
+			"description": "Tergal, dimout y blackout",
+			"extra": "Instalaci\u00f3n de 10 a 15 d\u00edas h\u00e1biles",
+			"price": "",
+			"image": "images/uploads/products/img_699585dd1e1a2.jpg",
+			"featured": false
+		}
+	]
+}

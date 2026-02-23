@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="ph" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f1f5f9"></stop>
+      <stop offset="100%" stop-color="#e2e8f0"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="300" fill="url(#ph)"></rect>
+
+  <g opacity="0.5">
+    <rect x="140" y="90" width="120" height="120" rx="12" fill="#cbd5e1"></rect>
+    <path d="M165 150h70" stroke="#94a3b8" stroke-width="6" stroke-linecap="round"></path>
+    <path d="M200 120v60" stroke="#94a3b8" stroke-width="6" stroke-linecap="round"></path>
+  </g>
+
+  <text x="200" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">
+    Imagen del producto
+  </text>
+</svg>
