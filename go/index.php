@@ -58,7 +58,13 @@ $imagenUrl = "https://persianasvizual.com/go/img/" . rawurlencode($imagen);
 
 <body>
 
-<p>Redireccionando...</p>
+<div style="text-align:center;margin-top:100px;">
+
+    <h2>Persianas Vizual Mazatlán</h2>
+
+    <p>Abriendo catálogo...</p>
+
+</div>
 
 <script>
 setTimeout(function () {
